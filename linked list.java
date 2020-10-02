@@ -15,7 +15,7 @@ produceList.add("zucchini");
 produceList.add("peppers");	
 ArrayList<String> drinksList = new ArrayList();
 //ARRAYLIST #3
-drinksList.ad("soda");
+drinksList.add("soda");
 drinksList.add("coffee");
 groceryList.add(bakeryList);// ADDING #1#2#3 IN 2D ARRAYLIST
 groceryList.add(produceList);
